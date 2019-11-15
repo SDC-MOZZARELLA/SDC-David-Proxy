@@ -1,3 +1,6 @@
 node_modules
 .env
 dist/
+.prettierrc
+newrelic.js
+newrelic_agent.log
